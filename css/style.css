@@ -28,6 +28,6 @@
 }
 
 .frog {
-    /* background-image: url('../img/frog.png'); */
+    background-image: url('../img/frog.png');
     background-color: green;
 }
