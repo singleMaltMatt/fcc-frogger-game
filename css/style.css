@@ -26,3 +26,8 @@
 .car-left, .car-right {
     background-color: lightgray;
 }
+
+.frog {
+    /* background-image: url('../img/frog.png'); */
+    background-color: green;
+}
