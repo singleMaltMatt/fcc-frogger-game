@@ -4,7 +4,7 @@ const startPauseButton = document.querySelector('#start-pause-button');
 const squares = document.querySelectorAll('.grid div');
 console.log(squares)
 
-let currentIndex = 76
+let currentIndex = 76;
 
 //MOVE FROG
 function moveFrog(e) {
@@ -27,5 +27,4 @@ function moveFrog(e) {
     squares[currentIndex].classList.add('frog')
 
 }
-
 document.addEventListener('keyup', moveFrog)
