@@ -11,6 +11,20 @@
     width: 20px;
 }
 
+#main-game {
+    display: flex;
+    justify-content: center;
+}
+
+#results-and-controls {
+    margin-top: 30px;
+    text-align: center;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
 .ending-block {
     background-color: red;
 }
