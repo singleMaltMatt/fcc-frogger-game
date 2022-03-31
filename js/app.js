@@ -164,7 +164,6 @@ function win() {
 
 //START/PAUSE & TIMER
 startPauseButton.addEventListener('click', () => {
-    console.log(timerId)
     if (timerId) {
         clearInterval(timerId)
         clearInterval(outcomeTimerId)

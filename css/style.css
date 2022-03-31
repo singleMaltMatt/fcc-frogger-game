@@ -21,19 +21,20 @@
 
 
 .l1, .l2, .l3 {
-    background-color: brown;
+    background-image: url('../img/log.png');
 } 
 
 .l4, .l5 {
-    background-color: lightblue;
+    background-color: #add8e6;
+}
+
+.c2,
+.c3 {
+    background-color: #d3d3d3;
 }
 
 .c1 {
-    background-color: black;
-}
-
-.c2, .c3 {
-    background-color: lightgray;
+    background-image: url('../img/car-left.png');
 }
 
 .frog {
